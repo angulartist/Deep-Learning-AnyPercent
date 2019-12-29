@@ -39,4 +39,4 @@ Before deep diving into deep learning and neural networks :
 ### Day 6
 - [x] Learnt neural network basics, activation functions (ReLU, Leaky...)
 - [x] Discovered the perceptron algorithm and implemented one basic
-- [x] Learnt Feedforward and Backpropagation
+- [x] Learnt Feedforward and Backpropagation methods
