@@ -17,7 +17,7 @@ Logging my progress during my 69 days Deep Learning for CV journey.
 - [x] Applied Color Channel Statistics and Color Histograms algorithms (extracting global color distribution from an image)
 - [x] Learnt and applied Hu Moments, LBP and HOG to extract shapes and textures
 
-> N1: We skip features extraction when building CNNs as they are end-to-end models relying on raw image pixel intensities. But I found it very important to avoid the "black/magic-box" effect.
+> N1: It's very important to understand features extraction when building CNNs to avoid the "black/magic-box" effect.
 
 ### Day 3
 - [x] Built a simple image classifier using the k-Nearest Neighbor (k-NN) algorithm
