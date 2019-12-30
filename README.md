@@ -1,4 +1,4 @@
-# Learning Deep Learning for Computer Vision in 69 days.
+# Deep Learning for Computer Vision in 69 days.
 Logging my progress during my 69 days Deep Learning for CV journey.
 
 ### Day 1
@@ -13,7 +13,7 @@ Logging my progress during my 69 days Deep Learning for CV journey.
 - [x] Discovered image classification basics and its challenges (factors of variation, semantic gap...)
 - [x] Went through types of learning (mainly supervised learning)
 - [x] Learnt image classification steps (gathering data, splitting dataset, features extraction, training network, evaluating network)
-- [x] Learnt how to quantify an image via features extraction (image desctriptors, feature descriptors, feature vectors)
+- [x] Learnt how to quantify an image via features extraction (image descriptors, feature descriptors, feature vectors)
 - [x] Applied Color Channel Statistics and Color Histograms algorithms (extracting global color distribution from an image)
 - [x] Learnt and applied Hu Moments, LBP and HOG to extract shapes and textures
 
@@ -40,3 +40,10 @@ Before deep diving into deep learning and neural networks :
 - [x] Learnt neural network basics, activation functions (Step, Sigmoid, ReLU, Leaky...) their pros/cons
 - [x] Discovered the perceptron algorithm and implemented one basic
 - [x] Learnt Feedforward architecture and Backpropagation technique (perceptron)
+
+### Day 7
+- [x] Learnt different techniques of weights initialization (uniform, normal, LeCun, Glorot...)
+- [x] Deep dived into Convolutional Neural Networks (CNNs): Understood that the concept of "convolution" is pretty straightforward as it's an element-wise multiplication between two matrices followed by a sum
+- [x] Learnt the concept of Kernels
+- [x] Learnt building blocks composing CNNs such as CONV layer, POOL layer, Batch Norm Layer, Dropout...
+- [x] Learnt some famous CNNs architectures and patterns
