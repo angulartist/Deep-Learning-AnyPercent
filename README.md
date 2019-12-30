@@ -44,6 +44,6 @@ Before deep diving into deep learning and neural networks :
 ### Day 7
 - [x] Learnt different techniques of weights initialization (uniform, normal, LeCun, Glorot...)
 - [x] Deep dived into Convolutional Neural Networks (CNNs): Understood that the concept of "convolution" is pretty straightforward as it's an element-wise multiplication between two matrices followed by a sum
-- [x] Learnt the concept of Kernels (It was quite hard to understand why this reduces the dimension of the input volume -> https://www.youtube.com/watch?v=C_zFhWdM4ic)
+- [x] Learnt the concept of Kernels (It was quite hard to understand why this reduces the dimension of the input volume -> https://www.youtube.com/watch?v=C_zFhWdM4ic / https://github.com/vdumoulin/conv_arithmetic)
 - [x] Learnt building blocks composing CNNs such as CONV layer, POOL layer, Batch Norm Layer, Dropout...
 - [x] Learnt some famous CNNs architectures and patterns
