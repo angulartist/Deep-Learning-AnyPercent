@@ -37,6 +37,6 @@ Before deep diving into deep learning and neural networks :
 - [x] Discovered binary descriptors extraction
 
 ### Day 6
-- [x] Learnt neural network basics, activation functions (ReLU, Leaky...)
+- [x] Learnt neural network basics, activation functions (Step, Sigmoid, ReLU, Leaky...) their pros/cons
 - [x] Discovered the perceptron algorithm and implemented one basic
-- [x] Learnt Feedforward and Backpropagation methods
+- [x] Learnt Feedforward architecture and Backpropagation technique (perceptron)
