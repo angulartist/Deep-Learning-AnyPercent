@@ -46,4 +46,11 @@ Before deep diving into deep learning and neural networks :
 - [x] Deep dived into Convolutional Neural Networks (CNNs): Understood that the concept of "convolution" is pretty straightforward as it's an element-wise multiplication between two matrices followed by a sum
 - [x] Learnt the concept of Kernels (It was quite hard to understand why this reduces the dimension of the input volume -> https://www.youtube.com/watch?v=C_zFhWdM4ic / https://github.com/vdumoulin/conv_arithmetic)
 - [x] Learnt building blocks composing CNNs such as CONV layer, POOL layer, Batch Norm Layer, Dropout...
-- [x] Learnt some famous CNNs architectures and patterns
+- [x] Discovered some famous CNNs architectures and patterns
+
+### Day 8
+- [x] Continued working with Backpropagation and took a refresher about SGD, kernels...
+- [x] Learnt how to detect/monitor underfitting/overfitting by exploring the behiavour of  train loss and val loss
+- [x] Played with some regularization methods to reduce overfitting : Learning rate schedulers (step-based decay, standard),  Data Augmentation, Batch Normalization (more stable convergence) and Dropout (higher test acc, lower train acc)
+- [x] Learnt how to checkpoint models whenever they make progress (ie: loss/acc improves) for later predictions
+- [x] Implemented LeNet on CIFAR-10
