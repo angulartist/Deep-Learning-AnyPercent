@@ -54,3 +54,10 @@ Before deep diving into deep learning and neural networks :
 - [x] Played with some regularization methods to reduce overfitting : Learning rate schedulers (step-based decay, standard),  Data Augmentation, Batch Normalization (more stable convergence) and Dropout (higher test acc, lower train acc)
 - [x] Learnt how to checkpoint models whenever they make progress (ie: loss/acc improves) for later predictions
 - [x] Implemented LeNet on CIFAR-10
+
+### Day 9
+- [x] Deep dived into more theorical knowledge about backprop, optimizers and activation functions (I recommend that course https://www.coursera.org/learn/machine-learning#syllabus which covers some basic stuff)
+- [x] Tried advanced optimization methods (adaptive learning rate => adagrad, rmsprop, adam, nadam), played with conv+strides and pool layers to see how it affects the input volume dimensions
+- [x] Implemented AlexNet on a custom dataset while monitoring under/over-fitting and driving the expriment in aim to reach a higher accuracy
+- [x] Just read about ensemble methods which is a great machine learning technique to improve classification accuracy and kind of easy to implement, however this requires some heavy computation power and I'll need to rely on cloud services
+- [x] Started to study transfert learning features extraction/fine-tuning
