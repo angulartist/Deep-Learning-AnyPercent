@@ -1,5 +1,5 @@
-# Deep Learning for Computer Vision in 69 days.
-Logging my progress during my 69 days Deep Learning for CV journey.
+# Deep Learning Any%.
+Logging my progress during my Deep Learning Speed Run
 
 ### Day 1
 - [x] Learnt what an image is / what pixels are.
