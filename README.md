@@ -62,9 +62,21 @@ Before deep diving into deep learning and neural networks :
 - [x] Just read about ensemble methods which is a great machine learning technique to improve classification accuracy and kind of easy to implement, however this requires some heavy computation power and I'll need to rely on cloud services
 - [x] Started to study transfert learning features extraction/fine-tuning
 
-### Day 9
+### Day 10
 - [x] Got hands dirty by playing with HDF5 (binary data format for storing huge volume of data)
 - [x] Extracted features on a custom dataset using VGG16 net with ImageNets weights
 - [x] Used these features to train a Logistic Regression classifier, reaching 96% accurracy
 - [x] Took a whiteboard and just tried to give the easiest explanation on how neural networks work (including feedforward and backpropagation) + then tried to explain how ConvNets work, was a great refresher
 - [x] Played with matrices and vectors (dot product...)
+
+## 10 days review
+
+That's was just wow.
+
+I was a total newbie on Computer Vision and Deep Learning, it was incredibly hard, but I learned so much...
+Firstly, I've met pixels, and from that, I've learnt linear classification, image processing, features extractions, neural networks, optimization methods, parameterized learning, logistic regression, neural networks, conv networks, backpropagation, regularization forms, famous net architectures etc. That's a lot of things.
+
+But to be very confortable with that, I'll need to test myself and do a lot of practice.
+
+And, here comes https://www.kaggle.com/
+
