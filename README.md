@@ -61,3 +61,10 @@ Before deep diving into deep learning and neural networks :
 - [x] Implemented AlexNet on a custom dataset while monitoring under/over-fitting and driving the expriment in aim to reach a higher accuracy
 - [x] Just read about ensemble methods which is a great machine learning technique to improve classification accuracy and kind of easy to implement, however this requires some heavy computation power and I'll need to rely on cloud services
 - [x] Started to study transfert learning features extraction/fine-tuning
+
+### Day 9
+- [x] Got hands dirty by playing with HDF5 (binary data format for storing huge volume of data)
+- [x] Extracted features on a custom dataset using VGG16 net with ImageNets weights
+- [x] Used these features to train a Logistic Regression classifier, reaching 96% accurracy
+- [x] Took a whiteboard and just tried to give the easiest explanation on how neural networks work (including feedforward and backpropagation) + then tried to explain how ConvNets work, was a great refresher
+- [x] Played with matrices and vectors (dot product...)
