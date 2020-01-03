@@ -80,3 +80,8 @@ But to be very confortable with that, I'll need to test myself and do a lot of p
 
 And, here comes https://www.kaggle.com/
 
+### Day 11
+- [x] Started to read Deep Learning with Python from François Chollet
+- [x] Tested various optimizers/regularization techniques/net architectures in order to have a deeper understanding on how to spot/reduce overfitting
+- [x] Working on a Macbook Pro is very limited, I don't have enough computing power even for smaller datasets. So I deployed my tests on FloydHub and I'm playing with a workspace using a Tesla K80 GPU. Todo: Test some cloud providers such as AWS or Cloud ML
+- [x] Currently trying to achieve some high accuracy on Kaggle Dogs vs. Cat dataset
