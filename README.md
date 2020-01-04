@@ -87,7 +87,7 @@ And, here comes https://www.kaggle.com/
 - [x] Currently trying to achieve some high accuracy on Kaggle Dogs vs. Cat dataset
 
 ### Day 12
-- Experimented Inception Module (GoogleNet) and Residual Modules (ResnNt)
-- Kept reading DL by François Chollet
-- Read about SparkML (Distributed Deep Learning) https://www.youtube.com/watch?v=tx6HyoUYGL0
-- Did more image processing, traditional ml and hand-crafted features extraction
+- [x] Experimented Inception Module (GoogleNet) and Residual Modules (ResnNt)
+- [x] Kept reading DL by François Chollet
+- [x] Read about SparkML (Distributed Deep Learning) https://www.youtube.com/watch?v=tx6HyoUYGL0
+- [x] Did more image processing, traditional ml and hand-crafted features extraction
