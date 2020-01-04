@@ -27,6 +27,9 @@ class SmallVGGNet(object):
         model.add(Conv2D(64, (3, 3), padding='same'))
         model.add(Activation('relu'))
         model.add(BatchNormalization(axis=chan_dim))
+        model.add(Conv2D(64, (3, 3), padding='same'))
+        model.add(Activation('relu'))
+        model.add(BatchNormalization(axis=chan_dim))
         model.add(MaxPooling2D(pool_size=(2, 2)))
         model.add(Dropout(0.25))
         
