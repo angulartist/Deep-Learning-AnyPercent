@@ -85,3 +85,9 @@ And, here comes https://www.kaggle.com/
 - [x] Tested various optimizers/regularization techniques/net architectures in order to have a deeper understanding on how to spot/reduce overfitting
 - [x] Working on a Macbook Pro is very limited, I don't have enough computing power even for smaller datasets. So I deployed my tests on FloydHub and I'm playing with a workspace using a Tesla K80 GPU. Todo: Test some cloud providers such as AWS or Cloud ML
 - [x] Currently trying to achieve some high accuracy on Kaggle Dogs vs. Cat dataset
+
+### Day 12
+- Experimented Inception Module (GoogleNet) and Residual Modules (ResnNt)
+- Kept reading DL by François Chollet
+- Read about SparkML (Distributed Deep Learning) https://www.youtube.com/watch?v=tx6HyoUYGL0
+- Did more image processing, traditional ml and hand-crafted features extraction
