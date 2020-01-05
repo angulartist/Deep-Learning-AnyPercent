@@ -91,3 +91,8 @@ And, here comes https://www.kaggle.com/
 - [x] Kept reading DL by François Chollet
 - [x] Read about SparkML (Distributed Deep Learning) https://www.youtube.com/watch?v=tx6HyoUYGL0
 - [x] Did more image processing, traditional ml and hand-crafted features extraction
+
+### Day 13
+- [x] Just some hands'on practice
+
+I'll change my updates rate from daily to weekly. As I'm working with bigger datasets, experiments take more time and updating every week is more convenient.
