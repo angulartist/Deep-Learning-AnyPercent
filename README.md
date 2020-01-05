@@ -94,5 +94,7 @@ And, here comes https://www.kaggle.com/
 
 ### Day 13
 - [x] Just some hands'on practice
+- [x] Built training flash cards
+- [x] Read more books
 
 I'll change my updates rate from daily to weekly. As I'm working with bigger datasets, experiments take more time and updating every week is more convenient.
