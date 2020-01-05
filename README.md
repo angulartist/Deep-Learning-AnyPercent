@@ -97,4 +97,4 @@ And, here comes https://www.kaggle.com/
 - [x] Built training flash cards
 - [x] Read more books
 
-I'll change my updates rate from daily to weekly. As I'm working with bigger datasets, experiments take more time and updating every week is more convenient.
+I'll change my updates rate from daily to weekly. As I'm working with bigger datasets, experiments take more time therefore updating every week is more convenient.
