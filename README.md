@@ -96,5 +96,6 @@ And, here comes https://www.kaggle.com/
 - [x] Just some hands'on practice
 - [x] Built training flash cards
 - [x] Read more books
+- [x] Watched some videos of this playlist https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49 - even if it's in full chinese, this is one of the best explanation over the Internet
 
 I'll change my updates rate from daily to weekly. As I'm working with bigger datasets, experiments take more time therefore updating every week is more convenient.
