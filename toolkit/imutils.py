@@ -2,8 +2,11 @@ from keras.preprocessing.image import ImageDataGenerator
 from sklearn.feature_extraction.image import extract_patches_2d
 
 
-def normalize01(arr):
-    return arr.astype('float32') / 255.0
+def normalize01(arr, multiple=False):
+    if multiple:
+        return (child.astype('float32') / 255.0 for child in arr)
+    else:
+        return arr.astype('float32') / 255.0
 
 
 def get_one_patch(image, dims):
