@@ -8,21 +8,26 @@ class CustomNet(object):
         input_shape = (height, width, depth)
         chan_dim = -1
         
-        # (CONV => ReLU => BN) * 2 => POOL => DO
-        model.add(Conv2D(32, (3, 3), padding='same', input_shape=input_shape))
+        # (Conv => ReLU => BN) * 2 => POOL => DO
+        model.add(Conv2D(64, (3, 3), padding='same', input_shape=input_shape))
         model.add(Activation('relu'))
         model.add(BatchNormalization(axis=chan_dim))
-        model.add(Conv2D(32, (3, 3), padding='same'))
+        model.add(Conv2D(64, (3, 3), padding='same'))
+        model.add(Activation('relu'))
+        model.add(BatchNormalization(axis=chan_dim))
+        model.add(Conv2D(64, (3, 3), padding='same'))
         model.add(Activation('relu'))
         model.add(BatchNormalization(axis=chan_dim))
         model.add(MaxPooling2D(pool_size=(2, 2)))
-        model.add(Dropout(0.25))
         
-         # (CONV => ReLU => BN) * 2 => POOL => DO
-        model.add(Conv2D(64, (3, 3), padding='same'))
+         # (Conv => ReLU => BN) * 2 => POOL => DO
+        model.add(Conv2D(128, (3, 3), padding='same'))
         model.add(Activation('relu'))
         model.add(BatchNormalization(axis=chan_dim))
-        model.add(Conv2D(64, (3, 3), padding='same'))
+        model.add(Conv2D(128, (3, 3), padding='same'))
+        model.add(Activation('relu'))
+        model.add(BatchNormalization(axis=chan_dim))
+        model.add(Conv2D(128, (3, 3), padding='same'))
         model.add(Activation('relu'))
         model.add(BatchNormalization(axis=chan_dim))
         model.add(MaxPooling2D(pool_size=(2, 2)))
