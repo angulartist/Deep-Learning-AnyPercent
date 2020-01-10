@@ -99,3 +99,15 @@ And, here comes https://www.kaggle.com/
 - [x] Watched some videos of this playlist https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49 - even if it's in full chinese, this is one of the best explanation over the Internet
 
 I'll change my updates rate from daily to weekly. As I'm working with bigger datasets, experiments take more time therefore updating every week is more convenient.
+
+
+### Week 3 (21 days)
+
+- [x] Took the DataCamp Machine Learning Scientist path. Was really fun, I like their visualizations and challenges. It was a great refresher
+- [x] Kept reading DL by F. Chollet (the inventor of Keras btw)
+- [x] Kept watching this https://www.youtube.com/playlist?list=PLJV_el3uVTsPy9oCRY30oBPNLCo89yu49 - disclaimer: this is in chinese, but slide are half chinese half english lmao
+- [x] Trained several nets on entry datasets (mnist, cifar...). I think i'm quite confident to say that I know what I'm doing right now, no more alien to me
+- [x] Ranked top 5% on my first Kaggle competition, reaching 0.99942% accuracy on MNIST. While it's easy enough to reach high accuracy with MNIST, the last tiny percent don't want to get caught
+- [x] Spent $70 on FloydHub. Will think about a small GPU.
+
+Overall, got a better understanding on how CNN works.
