@@ -111,3 +111,13 @@ I'll change my updates rate from daily to weekly. As I'm working with bigger dat
 - [x] Spent $70 on FloydHub. Will think about a small GPU.
 
 Overall, got a better understanding on how CNN works.
+
+
+### Week 4 (28 days)
+- [x] Finished Deeplearning.ai courses, got a better understanding of regularization methods (L2/L1 norm, data aug, dropout), advanced optimizers (weights averaging), normalization, vanishing/exploding gradients, best pratices...
+- [x] Finished DL by F. Chollet book
+- [x] Did some linear algebra, multivariate calculus, matrix ops, stats
+- [x] Worked with bigger datasets (more than 200k training samples) for image classification (had to use hdf5, parallel pre-processing...)
+- [x] Did some distributed pre-processing and feature engineering using Apache Beam and Spark ML
+
+Looks like I'm quite confident with image classification with deep learning. Andrew Ng's courses where absolutely amazing. Looking towards more hands-on practice with Kaggle and started to read about object detection and image segmentation.
