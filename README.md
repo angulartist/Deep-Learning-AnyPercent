@@ -115,6 +115,7 @@ Overall, got a better understanding on how CNN works.
 
 ### Week 4 (28 days)
 - [x] Finished Deeplearning.ai courses, got a better understanding of regularization methods (L2/L1 norm, data aug, dropout), advanced optimizers (weights averaging, adam, RMSprop), normalization, vanishing/exploding gradients, best pratices...
+- [x] Learnt about orthogonalization and hyperparameters tunning
 - [x] Finished DL by F. Chollet book
 - [x] Did some linear algebra, multivariate calculus, matrix ops, stats
 - [x] Worked with bigger datasets (more than 200k training samples) for image classification (had to use hdf5, parallel pre-processing...)
