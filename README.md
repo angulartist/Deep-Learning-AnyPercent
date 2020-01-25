@@ -122,3 +122,9 @@ Overall, got a better understanding on how CNN works.
 - [x] Did some distributed pre-processing and feature engineering using Apache Beam and Spark ML
 
 Looks like I'm quite confident with image classification with deep learning. Andrew Ng's courses where absolutely amazing. Looking towards more hands-on practice with Kaggle and started to read about object detection and image segmentation.
+
+### Week 5 (35 days)
+- [x] Did some entry Kaggle CV competitions, ranked top < 5%
+- [x] Took http://cs231n.stanford.edu/ course
+- [x] Focused on data visualization and data preparation (numpy, pandas, matplotlib)
+- [x] Took a refresher about regularization techniques
