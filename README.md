@@ -128,3 +128,8 @@ Looks like I'm quite confident with image classification with deep learning. And
 - [x] Took http://cs231n.stanford.edu/ course
 - [x] Focused on data visualization and data preparation (numpy, pandas, matplotlib)
 - [x] Took a refresher about regularization techniques
+
+### Week 6 (42 days)
+- [x] Learnt about object detection (sliding window, image pyramid, NSM)
+- [x] Took [Lex Fridman MIT's Deep Learning lectures](https://www.youtube.com/watch?v=0VH1Lim8gL8&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf) and found them pretty valuable as he talks about DL history, the state of the art, limits and use cases... also I enjoyed Andrew's Trask lecture on privacy and AI.
+- [x] I'm very interested by self-driving cars, looking towards more information.
